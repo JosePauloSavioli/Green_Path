@@ -1,1 +1,1 @@
-print("Este arquivo é para teste")
+print("Este arquivo é para um teste")
