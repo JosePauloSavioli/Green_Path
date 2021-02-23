@@ -1,1 +1,1 @@
-print("Este arquivo esta no meu clone agora")
+print("Pokémon, gotta catch them all!")
